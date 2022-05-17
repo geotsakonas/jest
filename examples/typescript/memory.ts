@@ -5,5 +5,3 @@ export default class Memory {
     this.current = 0;
   }
 
-  add(entry: number) {
-    
